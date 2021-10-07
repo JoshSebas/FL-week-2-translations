@@ -1690,703 +1690,703 @@ translate spanish d10p2s08_mh_part3_69e61b82:
 translate spanish d10p2s08_mh_part3_2f95b562:
 
     # mc "Because you find her attractive or because you don't want it to be Squizzle?"
-    mc "Because you find her attractive or because you don't want it to be Squizzle?"
+    mc "¿Porque la encuentras atractiva o porque no quieres que sea Squizzle?"
 
 # game/code/d10p2/d10p2s08.rpy:716
 translate spanish d10p2s08_mh_part3_1b5a97d9:
 
     # lc "A little of both?"
-    lc "A little of both?"
+    lc "¿Un poco de ambas?"
 
 # game/code/d10p2/d10p2s08.rpy:718
 translate spanish d10p2s08_mh_part3_5407d716:
 
     # mc "Well, you're right. It was Lyssa."
-    mc "Well, you're right. It was Lyssa."
+    mc "Bueno, tienes razón. Fue Lyssa."
 
 # game/code/d10p2/d10p2s08.rpy:722
 translate spanish d10p2s08_mh_part3_6db0b50e:
 
     # mc "We got some alone time and closed the door."
-    mc "We got some alone time and closed the door."
+    mc "Tuvimos un tiempo a solas y cerramos la puerta."
 
 # game/code/d10p2/d10p2s08.rpy:727
 translate spanish d10p2s08_mh_part3_a273c05e:
 
     # mc "Lyssa and I have been messing around a bit for the past week or so."
-    mc "Lyssa and I have been messing around a bit for the past week or so."
+    mc "Lyssa y yo hemos estado jugando un poco durante la última semana."
 
 # game/code/d10p2/d10p2s08.rpy:729
 translate spanish d10p2s08_mh_part3_7fe4784a:
 
     # lc "Because of the app game?"
-    lc "Because of the app game?"
+    lc "¿Por el juego de la app?"
 
 # game/code/d10p2/d10p2s08.rpy:733
 translate spanish d10p2s08_mh_part3_4c467c98:
 
     # mc "Yes, but also... just for fun. Is that okay?"
-    mc "Yes, but also... just for fun. Is that okay?"
+    mc "Sí, pero también... sólo por diversión. ¿Está bien?"
 
 # game/code/d10p2/d10p2s08.rpy:735
 translate spanish d10p2s08_mh_part3_8ca6f686:
 
     # lc "It's only cheating if you don't tell me about it."
-    lc "It's only cheating if you don't tell me about it."
+    lc "Sólo es trampa si no me lo cuentas."
 
 # game/code/d10p2/d10p2s08.rpy:739
 translate spanish d10p2s08_mh_part3_71d1546d:
 
     # mc "Well, in that case. {w}We've gotten to the point where she was willing to let me fuck her ass."
-    mc "Well, in that case. {w}We've gotten to the point where she was willing to let me fuck her ass."
+    mc "Bueno, en ese caso. {w}Hemos llegado al punto en que ella estaba dispuesta a dejarme follar su culo."
 
 # game/code/d10p2/d10p2s08.rpy:740
 translate spanish d10p2s08_mh_part3_5814c2c5:
 
     # lc "I've gotta hear this."
-    lc "I've gotta hear this."
+    lc "Tengo que oírlo."
 
 # game/code/d10p2/d10p2s08.rpy:744
 translate spanish d10p2s08_mh_part3_399e035e:
 
     # mc "She's amazing at giving head. She knows her way around a cock in a way- {w}Well, I've never met anyone as talented as she is."
-    mc "She's amazing at giving head. She knows her way around a cock in a way- {w}Well, I've never met anyone as talented as she is."
+    mc "Ella es asombrosa dando mamada. Ella conoce su camino alrededor de una polla de alguna manera- {w}Bueno, nunca he conocido a nadie tan talentoso como ella."
 
 # game/code/d10p2/d10p2s08.rpy:745
 translate spanish d10p2s08_mh_part3_c3c0ebe8:
 
     # mc "But this time, she undressed and spread herself out on the bed waiting for me to plunder her back passage."
-    mc "But this time, she undressed and spread herself out on the bed waiting for me to plunder her back passage."
+    mc "Pero esta vez, se desnudó y se extendió en la cama esperando que yo le saqueara el trasero."
 
 # game/code/d10p2/d10p2s08.rpy:749
 translate spanish d10p2s08_mh_part3_afa95f8d:
 
     # mc "We took it very slow, savoring every minute, and by the time I fully penetrated her we were both ready to explode."
-    mc "We took it very slow, savoring every minute, and by the time I fully penetrated her we were both ready to explode."
+    mc "Nos lo tomamos con mucha calma, saboreando cada minuto, y para cuando la penetré por completo ambos estábamos a punto de explotar."
 
 # game/code/d10p2/d10p2s08.rpy:754
 translate spanish d10p2s08_mh_part3_6ac5ff14:
 
     # mc "Because the proximity event was timed, we both had only a few minutes to make each other climax."
-    mc "Because the proximity event was timed, we both had only a few minutes to make each other climax."
+    mc "Como el evento de proximidad estaba cronometrado, ambos teníamos sólo unos minutos para hacer que el otro llegara al clímax."
 
 # game/code/d10p2/d10p2s08.rpy:759
 translate spanish d10p2s08_mh_part3_52e41c3d:
 
     # mc "She immediately dropped to her knees and started hungrily swallowing my cock."
-    mc "She immediately dropped to her knees and started hungrily swallowing my cock."
+    mc "Inmediatamente se puso de rodillas y empezó a tragarse mi polla con avidez."
 
 # game/code/d10p2/d10p2s08.rpy:763
 translate spanish d10p2s08_mh_part3_04c455aa:
 
     # mc "I've never felt anything that good before. She was amazing."
-    mc "I've never felt anything that good before. She was amazing."
+    mc "Nunca había sentido algo tan bueno. Fue increíble."
 
 # game/code/d10p2/d10p2s08.rpy:767
 translate spanish d10p2s08_mh_part3_642b0935:
 
     # mc "Meanwhile, she was getting off on it as well. Clearly she has some sort of oral fetish."
-    mc "Meanwhile, she was getting off on it as well. Clearly she has some sort of oral fetish."
+    mc "Mientras tanto, ella también se excitaba. Está claro que tiene algún tipo de fetiche oral."
 
 # game/code/d10p2/d10p2s08.rpy:771
 translate spanish d10p2s08_mh_part3_dad737bc:
 
     # mc "We were both peaking while the clock got closer to the finish time."
-    mc "We were both peaking while the clock got closer to the finish time."
+    mc "Los dos íbamos a tope mientras el reloj se acercaba a la hora de llegada."
 
 # game/code/d10p2/d10p2s08.rpy:776
 translate spanish d10p2s08_tm_part3_cfd73bab:
 
     # mc "So, I was out by the pool when Mr.D1cky suddenly appeared out of nowhere."
-    mc "So, I was out by the pool when Mr.D1cky suddenly appeared out of nowhere."
+    mc "Estaba en la piscina cuando el Sr. D1cky apareció de repente de la nada."
 
 # game/code/d10p2/d10p2s08.rpy:779
 translate spanish d10p2s08_tm_part3_f7e19426:
 
     # lc "Yeah, he does that. It's a pretty simple trick once you know how he does it."
-    lc "Yeah, he does that. It's a pretty simple trick once you know how he does it."
+    lc "Sí, él hace eso. Es un truco bastante sencillo una vez que sabes cómo lo hace."
 
 # game/code/d10p2/d10p2s08.rpy:781
 translate spanish d10p2s08_tm_part3_de111dc1:
 
     # mc "He was floating in mid-air above the pool!"
-    mc "He was floating in mid-air above the pool!"
+    mc "Estaba flotando en el aire sobre la piscina."
 
 # game/code/d10p2/d10p2s08.rpy:784
 translate spanish d10p2s08_tm_part3_ca0fdca8:
 
     # lc "Huh. That's new."
-    lc "Huh. That's new."
+    lc "Huh. Eso es nuevo."
 
 # game/code/d10p2/d10p2s08.rpy:786
 translate spanish d10p2s08_tm_part3_e45b77dc:
 
     # mc "Then he pulled an old pirate ship out of nothingness and it drifted down and floated on the water."
-    mc "Then he pulled an old pirate ship out of nothingness and it drifted down and floated on the water."
+    mc "Entonces sacó de la nada un viejo barco pirata que bajó a la deriva y flotó en el agua."
 
 # game/code/d10p2/d10p2s08.rpy:789
 translate spanish d10p2s08_tm_part3_fb95a296:
 
     # lc "An old pirate ship? Like a frigate or a galleon?"
-    lc "An old pirate ship? Like a frigate or a galleon?"
+    lc "¿Un viejo barco pirata? ¿Como una fragata o un galeón?"
 
 # game/code/d10p2/d10p2s08.rpy:791
 translate spanish d10p2s08_tm_part3_4975e668:
 
     # mc "I don't know. It was huge. Although, it started off small enough that he could hold it in his hands."
-    mc "I don't know. It was huge. Although, it started off small enough that he could hold it in his hands."
+    mc "No lo sé. Era enorme. Aunque, empezó siendo lo suficientemente pequeño como para poder sostenerlo en sus manos."
 
 # game/code/d10p2/d10p2s08.rpy:794
 translate spanish d10p2s08_tm_part3_49b0ae75:
 
     # lc "Did you drop some acid or something?"
-    lc "Did you drop some acid or something?"
+    lc "¿Se te cayó algún ácido o algo así?"
 
 # game/code/d10p2/d10p2s08.rpy:796
 translate spanish d10p2s08_tm_part3_8f530e94:
 
     # mc "I was wondering that too, because next thing I knew I was sinking into the water and the pool was like the size of an ocean."
-    mc "I was wondering that too, because next thing I knew I was sinking into the water and the pool was like the size of an ocean."
+    mc "Yo también me lo preguntaba, porque lo siguiente que recuerdo es que me estaba hundiendo en el agua y la piscina era del tamaño de un océano."
 
 # game/code/d10p2/d10p2s08.rpy:798
 translate spanish d10p2s08_tm_part3_09b48071:
 
     # mc "I kept sinking and sinking and then suddenly the world was upside down and I was floating to the opposite side - the bottom was now the surface."
-    mc "I kept sinking and sinking and then suddenly the world was upside down and I was floating to the opposite side - the bottom was now the surface."
+    mc "Me seguía hundiendo y hundiendo y, de repente, el mundo estaba al revés y yo estaba flotando hacia el lado opuesto: el fondo era ahora la superficie."
 
 # game/code/d10p2/d10p2s08.rpy:800
 translate spanish d10p2s08_tm_part3_f59a89e9:
 
     # mc "I found myself close to the old pirate ship, but now it was full sized, and there was someone on it."
-    mc "I found myself close to the old pirate ship, but now it was full sized, and there was someone on it."
+    mc "Me encontré cerca del viejo barco pirata, pero ahora era de tamaño normal, y había alguien en él."
 
 # game/code/d10p2/d10p2s08.rpy:802
 translate spanish d10p2s08_tm_part3_2f4a1e96:
 
     # lc "Who was it?"
-    lc "Who was it?"
+    lc "¿Quién era?"
 
 # game/code/d10p2/d10p2s08.rpy:804
 translate spanish d10p2s08_tm_part3_84a374db:
 
     # mc "I forget her name. I think it was Talia? I'm not sure if that's her real name or username."
-    mc "I forget her name. I think it was Talia? I'm not sure if that's her real name or username."
+    mc "He olvidado su nombre. Creo que era Talia. No estoy seguro de si ese es su nombre real o su nombre de usuario."
 
 # game/code/d10p2/d10p2s08.rpy:805
 translate spanish d10p2s08_tm_part3_6a7837a6:
 
     # mc "I climbed up onto the ship and stood before her. That's when I realized I was naked."
-    mc "I climbed up onto the ship and stood before her. That's when I realized I was naked."
+    mc "Subí a la nave y me puse delante de ella. Fue entonces cuando me di cuenta de que estaba desnudo."
 
 # game/code/d10p2/d10p2s08.rpy:807
 translate spanish d10p2s08_tm_part3_acb838f3:
 
     # lc "Was she naked too?"
-    lc "Was she naked too?"
+    lc "¿Ella también estaba desnuda?"
 
 # game/code/d10p2/d10p2s08.rpy:811
 translate spanish d10p2s08_tm_part3_79d0c188:
 
     # mc "No. She had some sort of pirate costume. It was skin tight and showed off all of her curves."
-    mc "No. She had some sort of pirate costume. It was skin tight and showed off all of her curves."
+    mc "No. Tenía una especie de disfraz de pirata. Era ajustado y mostraba todas sus curvas."
 
 # game/code/d10p2/d10p2s08.rpy:815
 translate spanish d10p2s08_tm_part3_e2f52f11:
 
     # mc "Then suddenly she was naked except for her hat and a scarf wrapped around her waist."
-    mc "Then suddenly she was naked except for her hat and a scarf wrapped around her waist."
+    mc "Luego, de repente, estaba desnuda, salvo por su sombrero y un pañuelo que le rodeaba la cintura."
 
 # game/code/d10p2/d10p2s08.rpy:817
 translate spanish d10p2s08_tm_part3_dabf70f2:
 
     # lc "Nice."
-    lc "Nice."
+    lc "hermoso."
 
 # game/code/d10p2/d10p2s08.rpy:821
 translate spanish d10p2s08_tm_part3_2c813ca3:
 
     # mc "Just as suddenly I found myself behind her, with my cock deep inside her."
-    mc "Just as suddenly I found myself behind her, with my cock deep inside her."
+    mc "De repente me encontré detrás de ella, con mi polla dentro de ella."
 
 # game/code/d10p2/d10p2s08.rpy:825
 translate spanish d10p2s08_tm_part3_adeb0b71:
 
     # mc "We just fucked like crazy everywhere. Against the beams at the side of the ship, on the mast, in the crow's nest..."
-    mc "We just fucked like crazy everywhere. Against the beams at the side of the ship, on the mast, in the crow's nest..."
+    mc "Follamos como locos por todas partes. Contra las vigas del costado del barco, en el mástil, en la cofa..."
 
 # game/code/d10p2/d10p2s08.rpy:829
 translate spanish d10p2s08_tm_part3_c7656743:
 
     # mc "Anywhere we could imagine, just suddenly we were there."
-    mc "Anywhere we could imagine, just suddenly we were there."
+    mc "En cualquier lugar que pudiéramos imaginar, de repente estábamos allí."
 
 # game/code/d10p2/d10p2s08.rpy:833
 translate spanish d10p2s08_tm_part3_22314eee:
 
     # mc "Next thing I knew she was on her knees sucking my dick..."
-    mc "Next thing I knew she was on her knees sucking my dick..."
+    mc "Lo siguiente que supe es que estaba de rodillas chupándome la polla..."
 
 # game/code/d10p2/d10p2s08.rpy:838
 translate spanish d10p2s08_dw_part3_463544ab:
 
     # mc "So, first Squizzle had me strip down and then she bound me to some piece of sex furniture."
-    mc "So, first Squizzle had me strip down and then she bound me to some piece of sex furniture."
+    mc "Así que, primero Squizzle me hizo desnudar y luego me ató a un mueble sexual."
 
 # game/code/d10p2/d10p2s08.rpy:841
 translate spanish d10p2s08_dw_part3_fc46fb96:
 
     # lc "There's sex furniture?"
-    lc "There's sex furniture?"
+    lc "¿Hay muebles sexuales?"
 
 # game/code/d10p2/d10p2s08.rpy:843
 translate spanish d10p2s08_dw_part3_b391f5b4:
 
     # mc "It was kinda like a massage table, but all leather, with leather cuffs for my wrists and ankles."
-    mc "It was kinda like a massage table, but all leather, with leather cuffs for my wrists and ankles."
+    mc "Era como una mesa de masaje, pero toda de cuero, con esposas de cuero para mis muñecas y tobillos."
 
 # game/code/d10p2/d10p2s08.rpy:846
 translate spanish d10p2s08_dw_part3_6f279e8c:
 
     # lc "So, you were basically tied-up face-down, with your penis and... {w}your anus on full display?"
-    lc "So, you were basically tied-up face-down, with your penis and... {w}your anus on full display?"
+    lc "Así que, básicamente estabas atado boca abajo, con tu pene y... {w}¿tu ano a la vista?"
 
 # game/code/d10p2/d10p2s08.rpy:848
 translate spanish d10p2s08_dw_part3_5f9285bd:
 
     # mc "Yeah. At first it was just Squizzle, but then she left the room and I sat there waiting and wondering who might come in."
-    mc "Yeah. At first it was just Squizzle, but then she left the room and I sat there waiting and wondering who might come in."
+    mc "Sí. Al principio era sólo Squizzle, pero luego salió de la habitación y me senté a esperar y a preguntarme quién podría entrar."
 
 # game/code/d10p2/d10p2s08.rpy:850
 translate spanish d10p2s08_dw_part3_79f0b8a0:
 
     # mc "I didn't even hear when my Mistress entered. I just suddenly felt someone groping my ass."
-    mc "I didn't even hear when my Mistress entered. I just suddenly felt someone groping my ass."
+    mc "Ni siquiera escuché cuando mi Ama entró. Sólo sentí de repente que alguien me manoseaba el culo."
 
 # game/code/d10p2/d10p2s08.rpy:853
 translate spanish d10p2s08_dw_part3_92fcd23d:
 
     # lc "Oh my."
-    lc "Oh my."
+    lc "Oh, Dios."
 
 # game/code/d10p2/d10p2s08.rpy:855
 translate spanish d10p2s08_dw_part3_d6c28a21:
 
     # mc "I was almost thankful when it turned out to be my Mistress. Then I remembered that she can be somewhat... {w}scary."
-    mc "I was almost thankful when it turned out to be my Mistress. Then I remembered that she can be somewhat... {w}scary."
+    mc "Casi me sentí agradecido cuando resultó ser mi Ama. Entonces recordé que ella puede ser algo... {w}aterradora."
 
 # game/code/d10p2/d10p2s08.rpy:858
 translate spanish d10p2s08_dw_part3_b3b0b7da:
 
     # lc "I don't think you've told me about your Mistress."
-    lc "I don't think you've told me about your Mistress."
+    lc "Creo que no me has hablado de tu Ama."
 
 # game/code/d10p2/d10p2s08.rpy:862
 translate spanish d10p2s08_dw_part3_1d7bd82c:
 
     # mc "I promise I will, but for now let me just tell you about tonight."
-    mc "I promise I will, but for now let me just tell you about tonight."
+    mc "Prometo que lo haré, pero por ahora déjame contarte sobre esta noche."
 
 # game/code/d10p2/d10p2s08.rpy:867
 translate spanish d10p2s08_dw_part3_50158806:
 
     # lc "Sounds... {w}fascinating."
-    lc "Sounds... {w}fascinating."
+    lc "Suena... {w}fascinante."
 
 # game/code/d10p2/d10p2s08.rpy:871
 translate spanish d10p2s08_dw_part3_c98ae7a9:
 
     # mc "She selected some sort of cane - basically a bundle of dowel rods with a firm handle."
-    mc "She selected some sort of cane - basically a bundle of dowel rods with a firm handle."
+    mc "Seleccionó una especie de bastón - básicamente un manojo de varillas con un mango firme."
 
 # game/code/d10p2/d10p2s08.rpy:875
 translate spanish d10p2s08_dw_part3_b72af981:
 
     # mc "Then she proceeded to beat my ass red."
-    mc "Then she proceeded to beat my ass red."
+    mc "Luego procedió a ponerme rojo el trasero."
 
 # game/code/d10p2/d10p2s08.rpy:880
 translate spanish d10p2s08_dw_part3_cb16c600:
 
     # mc "When she finished with the cane, she selected a paddle from the table and used it upon my poor cock."
-    mc "When she finished with the cane, she selected a paddle from the table and used it upon my poor cock."
+    mc "Cuando terminó con el bastón, escogió un remo de la mesa y lo usó sobre mi pobre polla."
 
 # game/code/d10p2/d10p2s08.rpy:884
 translate spanish d10p2s08_dw_part3_aeb64d35:
 
     # mc "She started stroking my cock with her hand and applied a vibrator to my balls, but I held out as long as I could."
-    mc "She started stroking my cock with her hand and applied a vibrator to my balls, but I held out as long as I could."
+    mc "Empezó a acariciarme la polla con la mano y me aplicó un vibrador en los huevos, pero aguanté todo lo que pude."
 
 # game/code/d10p2/d10p2s08.rpy:889
 translate spanish d10p2s08_dw_part3_a28cc02f:
 
     # mc "When she finished with the cane, she took a dildo from the table and shoved it into my mouth."
-    mc "When she finished with the cane, she took a dildo from the table and shoved it into my mouth."
+    mc "Cuando terminó con la caña, cogió un consolador de la mesa y me lo metió en la boca."
 
 # game/code/d10p2/d10p2s08.rpy:893
 translate spanish d10p2s08_dw_part3_83af1e88:
 
     # mc "She made me suck that fake cock, and I tried the best that I could."
-    mc "She made me suck that fake cock, and I tried the best that I could."
+    mc "Me hizo chupar esa polla falsa, y lo intenté lo mejor que pude."
 
 # game/code/d10p2/d10p2s08.rpy:898
 translate spanish d10p2s08_dd_part3_b663fcc3:
 
     # mc "So, I stepped into the room and DoubleD was bound doggystyle facing away from me."
-    mc "So, I stepped into the room and DoubleD was bound doggystyle facing away from me."
+    mc "Así que entré en la habitación y DoubleD estaba atado al estilo perrito de espaldas a mí."
 
 # game/code/d10p2/d10p2s08.rpy:900
 translate spanish d10p2s08_dd_part3_cf01f117:
 
     # mc "I placed my hand on her ass and let her squirm a little before letting her know it was me."
-    mc "I placed my hand on her ass and let her squirm a little before letting her know it was me."
+    mc "Puse mi mano en su culo y dejé que se retorciera un poco antes de hacerle saber que era yo."
 
 # game/code/d10p2/d10p2s08.rpy:903
 translate spanish d10p2s08_dd_part3_e95326ab:
 
     # lc "Was she naked?"
-    lc "Was she naked?"
+    lc "¿Estaba desnuda?"
 
 # game/code/d10p2/d10p2s08.rpy:905
 translate spanish d10p2s08_dd_part3_e4df2584:
 
     # mc "She was wearing a black fetish outfit. Every aspect of her figure was hidden by the thinnest material."
-    mc "She was wearing a black fetish outfit. Every aspect of her figure was hidden by the thinnest material."
+    mc "Llevaba un traje fetiche negro. Cada aspecto de su figura estaba oculto por el material más fino."
 
 # game/code/d10p2/d10p2s08.rpy:908
 translate spanish d10p2s08_dd_part3_4fe0fda5:
 
     # lc "Please go on."
-    lc "Please go on."
+    lc "Por favor, continúa."
 
 # game/code/d10p2/d10p2s08.rpy:910
 translate spanish d10p2s08_dd_part3_edb2aaac:
 
     # mc "Her ankles and wrists were bound in leather. There was a table of instruments waiting for use."
-    mc "Her ankles and wrists were bound in leather. There was a table of instruments waiting for use."
+    mc "Sus tobillos y muñecas estaban atados con cuero. Había una mesa de instrumentos esperando a ser utilizados."
 
 # game/code/d10p2/d10p2s08.rpy:913
 translate spanish d10p2s08_dd_part3_5e0896e1:
 
     # lc "Instruments? What do you mean?"
-    lc "Instruments? What do you mean?"
+    lc "¿Instrumentos? ¿Qué quieres decir?"
 
 # game/code/d10p2/d10p2s08.rpy:915
 translate spanish d10p2s08_dd_part3_a30d0a90:
 
     # mc "Paddles, canes, dildos... {w}there was even an anal hook."
-    mc "Paddles, canes, dildos... {w}there was even an anal hook."
+    mc "Paleta, bastones, consoladores... {w}incluso había un gancho anal."
 
 # game/code/d10p2/d10p2s08.rpy:917
 translate spanish d10p2s08_dd_part3_9a57fedd:
 
     # lc "Ah, I think you meant implements."
-    lc "Ah, I think you meant implements."
+    lc "Ah, creo que te referías a los implementos."
 
 # game/code/d10p2/d10p2s08.rpy:919
 translate spanish d10p2s08_dd_part3_9679c8c4:
 
     # mc "Correct. Implements of pleasure and pain."
-    mc "Correct. Implements of pleasure and pain."
+    mc "Correcto. Implementos de placer y dolor."
 
 # game/code/d10p2/d10p2s08.rpy:924
 translate spanish d10p2s08_dd_part3_87a9b000:
 
     # lc "I was thinking... nevermind. Tell me more."
-    lc "I was thinking... nevermind. Tell me more."
+    lc "Estaba pensando... no importa. Cuéntame más."
 
 # game/code/d10p2/d10p2s08.rpy:928
 translate spanish d10p2s08_dd_part3_7afa3db5:
 
     # mc "I decided to spank her, and chose the appropriate implement for the job."
-    mc "I decided to spank her, and chose the appropriate implement for the job."
+    mc "Decidí azotarla, y elegí el instrumento apropiado para el trabajo."
 
 # game/code/d10p2/d10p2s08.rpy:933
 translate spanish d10p2s08_dd_part3_b6e324e7:
 
     # lc "What did you use?"
-    lc "What did you use?"
+    lc "¿Qué utilizaste?"
 
 # game/code/d10p2/d10p2s08.rpy:938
 translate spanish d10p2s08_dd_part3_d8724f19:
 
     # mc "My hand. I wanted to really feel it."
-    mc "My hand. I wanted to really feel it."
+    mc "Mi mano. Quería sentirla de verdad."
 
 # game/code/d10p2/d10p2s08.rpy:940
 translate spanish d10p2s08_dd_part3_b061e59e:
 
     # mc "A paddle. I wanted her to really feel it."
-    mc "A paddle. I wanted her to really feel it."
+    mc "Una paleta. Quería que lo sintiera de verdad."
 
 # game/code/d10p2/d10p2s08.rpy:942
 translate spanish d10p2s08_dd_part3_5e2fed4d:
 
     # mc "A cane of bundled sticks. It intrigued me."
-    mc "A cane of bundled sticks. It intrigued me."
+    mc "Un bastón de palos atados. Me intrigó."
 
 # game/code/d10p2/d10p2s08.rpy:946
 translate spanish d10p2s08_dd_part3_4cd9147e:
 
     # mc "After burning her ass red she was begging me to fuck her."
-    mc "After burning her ass red she was begging me to fuck her."
+    mc "Después de quemarle el culo de rojo me estaba rogando que la cogiera."
 
 # game/code/d10p2/d10p2s08.rpy:950
 translate spanish d10p2s08_dd_part3_c5ba1368:
 
     # mc "Her outfit was designed for easy access, so I didn't even have to unbind her before I stuck my cock deep inside her warm, inviting pussy."
-    mc "Her outfit was designed for easy access, so I didn't even have to unbind her before I stuck my cock deep inside her warm, inviting pussy."
+    mc "Su traje estaba diseñado para facilitar el acceso, así que ni siquiera tuve que desatarla antes de meter mi polla en lo más profundo de su cálido y tentador coño."
 
 # game/code/d10p2/d10p2s08.rpy:1004
 translate spanish d10p2s08_aw_part5_3e8f0a42:
 
     # mc "So, Allison and I kept fingering and jerking each other off on the stairs. I forget if anyone else was around."
-    mc "So, Allison and I kept fingering and jerking each other off on the stairs. I forget if anyone else was around."
+    mc "Entonces, Allison y yo seguimos toqueteándonos y masturbándonos en las escaleras. Olvidé si había alguien más cerca."
 
 # game/code/d10p2/d10p2s08.rpy:1005
 translate spanish d10p2s08_aw_part5_a370bfe7:
 
     # mc "The next thing I remember Allison pulled my cock towards her so I could come all over the back of her dress."
-    mc "The next thing I remember Allison pulled my cock towards her so I could come all over the back of her dress."
+    mc "Lo siguiente que recuerdo es que Allison tiró de mi polla hacia ella para que me corriera por toda la espalda de su vestido."
 
 # game/code/d10p2/d10p2s08.rpy:1006
 translate spanish d10p2s08_aw_part5_58d88371:
 
     # mc "Meanwhile, she arched her back and had a full-on, intense, powerful orgasm right there in my hands."
-    mc "Meanwhile, she arched her back and had a full-on, intense, powerful orgasm right there in my hands."
+    mc "Mientras tanto, ella arqueó la espalda y tuvo un intenso y potente orgasmo allí mismo, en mis manos."
 
 # game/code/d10p2/d10p2s08.rpy:1009
 translate spanish d10p2s08_aw_part5_b793755c:
 
     # mc "That's when I noticed the butt plug sticking out of her ass."
-    mc "That's when I noticed the butt plug sticking out of her ass."
+    mc "Fue entonces cuando me di cuenta de que el tapón del culo sobresalía del mismo."
 
 # game/code/d10p2/d10p2s08.rpy:1017
 translate spanish d10p2s08_cl_part5_b1b9dd09:
 
     # mc "Anyway, so we were both in the outside shower and I was balls deep in her bare ass."
-    mc "Anyway, so we were both in the outside shower and I was balls deep in her bare ass."
+    mc "De todos modos, los dos estábamos en la ducha exterior y yo estaba metido hasta las pelotas en su culo desnudo."
 
 # game/code/d10p2/d10p2s08.rpy:1018
 translate spanish d10p2s08_cl_part5_f7feac20:
 
     # mc "When I was close to cumming, I asked her how she wanted it, and she gave me a choice."
-    mc "When I was close to cumming, I asked her how she wanted it, and she gave me a choice."
+    mc "Cuando estaba a punto de correrme, le pregunté cómo lo quería y me dio a elegir."
 
 # game/code/d10p2/d10p2s08.rpy:1021
 translate spanish d10p2s08_cl_part5_4fadbf48:
 
     # mc "I could either creampie her dirty asshole or she could clean my cock with her mouth..."
-    mc "I could either creampie her dirty asshole or she could clean my cock with her mouth..."
+    mc "Podría eyacular en su sucio culo o ella podría limpiar mi polla con su boca..."
 
 # game/code/d10p2/d10p2s08.rpy:1030
 translate spanish d10p2s08_mh_part5_9e70f021:
 
     # mc "I climaxed hard. After I finished there was just cum everywhere."
-    mc "I climaxed hard. After I finished there was just cum everywhere."
+    mc "Llegué al clímax con fuerza. Después de que terminé sólo había semen por todas partes."
 
 # game/code/d10p2/d10p2s08.rpy:1031
 translate spanish d10p2s08_mh_part5_230aa7e8:
 
     # mc "My cum was all over her butt and butthole; her cum was everyplace else."
-    mc "My cum was all over her butt and butthole; her cum was everyplace else."
+    mc "Mi semen estaba en todo su trasero y en el agujero del culo; su semen estaba en todos los demás lugares."
 
 # game/code/d10p2/d10p2s08.rpy:1034
 translate spanish d10p2s08_mh_part5_903efb88:
 
     # mc "We won the event, but took some time to recover, and then clean up."
-    mc "We won the event, but took some time to recover, and then clean up."
+    mc "Ganamos el evento, pero tardamos en recuperarnos y en limpiar."
 
 # game/code/d10p2/d10p2s08.rpy:1036
 translate spanish d10p2s08_mh_part5_b58399af:
 
     # mc "At the Party last week she had given me half a blowjob, then left me with blue balls."
-    mc "At the Party last week she had given me half a blowjob, then left me with blue balls."
+    mc "En la fiesta de la semana pasada me había hecho media mamada y luego me dejó con las pelotas azules."
 
 # game/code/d10p2/d10p2s08.rpy:1037
 translate spanish d10p2s08_mh_part5_be6d1553:
 
     # mc "Tonight was different. I came down her throat while she shivered in a silent orgasm."
-    mc "Tonight was different. I came down her throat while she shivered in a silent orgasm."
+    mc "Esta noche fue diferente. Me corrí en su garganta mientras ella temblaba en un orgasmo silencioso."
 
 # game/code/d10p2/d10p2s08.rpy:1040
 translate spanish d10p2s08_mh_part5_231c093d:
 
     # mc "We won the event, and I had a great time, but I can't shake the feeling that there's something mysterious about her."
-    mc "We won the event, and I had a great time, but I can't shake the feeling that there's something mysterious about her."
+    mc "Ganamos el evento y me lo pasé muy bien, pero no puedo evitar la sensación de que hay algo misterioso en ella."
 
 # game/code/d10p2/d10p2s08.rpy:1048
 translate spanish d10p2s08_tm_part5_b593bf64:
 
     # mc "So, one moment she was sucking my cock, and the next moment she was straddling me and I was balls deep in her pussy."
-    mc "So, one moment she was sucking my cock, and the next moment she was straddling me and I was balls deep in her pussy."
+    mc "Así que, en un momento estaba chupando mi polla, y al momento siguiente estaba a horcajadas sobre mí y yo estaba hasta las pelotas en su coño."
 
 # game/code/d10p2/d10p2s08.rpy:1049
 translate spanish d10p2s08_tm_part5_7812f4f1:
 
     # mc "Then we were everywhere at once. I was fucking her, she was riding me, she was sucking me off... all at the same time."
-    mc "Then we were everywhere at once. I was fucking her, she was riding me, she was sucking me off... all at the same time."
+    mc "Entonces estábamos en todas partes a la vez. Me la estaba follando, ella me montaba, me la chupaba... todo al mismo tiempo."
 
 # game/code/d10p2/d10p2s08.rpy:1052
 translate spanish d10p2s08_tm_part5_0f4098c2:
 
     # mc "I couldn't tell which one of them were me, or if they all were, but when I came all over her face I was back to being just one person."
-    mc "I couldn't tell which one of them were me, or if they all were, but when I came all over her face I was back to being just one person."
+    mc "No podría decir cuál de ellos era yo, o si todos lo eran, pero cuando me corrí en toda su cara volví a ser una sola persona."
 
 # game/code/d10p2/d10p2s08.rpy:1053
 translate spanish d10p2s08_tm_part5_5506694a:
 
     # mc "She jumped off the crow's nest into the water, and I followed her - feeling a rush of excitement and terror."
-    mc "She jumped off the crow's nest into the water, and I followed her - feeling a rush of excitement and terror."
+    mc "Ella saltó de la cofa al agua y yo la seguí, sintiendo una ráfaga de emoción y terror."
 
 # game/code/d10p2/d10p2s08.rpy:1061
 translate spanish d10p2s08_dw_part5_06d98cb2:
 
     # mc "Where was I? Oh yeah."
-    mc "Where was I? Oh yeah."
+    mc "¿Dónde estaba yo? Ah, sí."
 
 # game/code/d10p2/d10p2s08.rpy:1063
 translate spanish d10p2s08_dw_part5_1422c373:
 
     # mc "So, finally, when I was about to burst... {w}she just stopped."
-    mc "So, finally, when I was about to burst... {w}she just stopped."
+    mc "Así que, finalmente, cuando estaba a punto de estallar... {w}ella simplemente se detuvo."
 
 # game/code/d10p2/d10p2s08.rpy:1064
 translate spanish d10p2s08_dw_part5_fd025f3d:
 
     # mc "She walked out of the room and just left me there."
-    mc "She walked out of the room and just left me there."
+    mc "Salió de la habitación y me dejó allí."
 
 # game/code/d10p2/d10p2s08.rpy:1067
 translate spanish d10p2s08_dw_part5_2d51d8a7:
 
     # mc "Squizzle came to help me get out of the bindings, but I didn't get to cum."
-    mc "Squizzle came to help me get out of the bindings, but I didn't get to cum."
+    mc "Squizzle vino a ayudarme a salir de las ataduras, pero no llegué a correrme."
 
 # game/code/d10p2/d10p2s08.rpy:1069
 translate spanish d10p2s08_dw_part5_4f4e1606:
 
     # mc "So, finally, after I held out as long as I could, the dam burst."
-    mc "So, finally, after I held out as long as I could, the dam burst."
+    mc "Así que, finalmente, después de aguantar todo lo que pude, la presa se rompió."
 
 # game/code/d10p2/d10p2s08.rpy:1070
 translate spanish d10p2s08_dw_part5_0178cab7:
 
     # mc "I came like a man possessed. I think I might have even passed out."
-    mc "I came like a man possessed. I think I might have even passed out."
+    mc "Me corrí como un poseído. Creo que incluso me he desmayado."
 
 # game/code/d10p2/d10p2s08.rpy:1073
 translate spanish d10p2s08_dw_part5_93282b67:
 
     # mc "The next thing I knew I was alone in the room and then Squizzle was undoing my bindings."
-    mc "The next thing I knew I was alone in the room and then Squizzle was undoing my bindings."
+    mc "Lo siguiente que supe fue que estaba solo en la habitación y que Squizzle estaba deshaciendo mis ataduras."
 
 # game/code/d10p2/d10p2s08.rpy:1081
 translate spanish d10p2s08_dd_part5_f80050e4:
 
     # mc "So, I was fucking Daisy while she was bound doggystyle."
-    mc "So, I was fucking Daisy while she was bound doggystyle."
+    mc "Así que, me estaba follando a Daisy mientras ella estaba atada al estilo perrito."
 
 # game/code/d10p2/d10p2s08.rpy:1083
 translate spanish d10p2s08_dd_part5_f7365378:
 
     # mc "I couldn't hold back any longer. I barely had time to pull out before I came."
-    mc "I couldn't hold back any longer. I barely had time to pull out before I came."
+    mc "No pude contenerme más. Apenas tuve tiempo de salir antes de correrme."
 
 # game/code/d10p2/d10p2s08.rpy:1086
 translate spanish d10p2s08_dd_part5_fce961c7:
 
     # mc "After that I removed her bindings and helped her get feeling back."
-    mc "After that I removed her bindings and helped her get feeling back."
+    mc "Después le quité las ataduras y la ayudé a recuperar la sensibilidad."
 
 # game/code/d10p2/d10p2s08.rpy:1088
 translate spanish d10p2s08_dd_part5_31fe8f1b:
 
     # mc "I couldn't hold back any longer. I came deep inside her."
-    mc "I couldn't hold back any longer. I came deep inside her."
+    mc "No pude contenerme más. Me corrí dentro de ella."
 
 # game/code/d10p2/d10p2s08.rpy:1091
 translate spanish d10p2s08_dd_part5_fce961c7_1:
 
     # mc "After that I removed her bindings and helped her get feeling back."
-    mc "After that I removed her bindings and helped her get feeling back."
+    mc "Después le quité las ataduras y la ayudé a recuperar la sensibilidad."
 
 # game/code/d10p2/d10p2s08.rpy:1093
 translate spanish d10p2s08_dd_part5_6160408b:
 
     # mc "I decided to have some more fun with her, binding her wrists so she was hanging from the ceiling."
-    mc "I decided to have some more fun with her, binding her wrists so she was hanging from the ceiling."
+    mc "Decidí divertirme un poco más con ella, atando sus muñecas para que colgara del techo."
 
 # game/code/d10p2/d10p2s08.rpy:1096
 translate spanish d10p2s08_dd_part5_6ea3d9f4:
 
     # mc "Then I returned to my implement and prepared to punish those gorgeous tits of hers."
-    mc "Then I returned to my implement and prepared to punish those gorgeous tits of hers."
+    mc "Luego volví a mi implemento y me preparé para castigar esas hermosas tetas suyas."
 
 # game/code/d10p2/d10p2s08.rpy:1112
 translate spanish d10p2s08_end_127fa758:
 
     # mc "I can hear you breathing... {w}It kinda sounds like you're asleep."
-    mc "I can hear you breathing... {w}It kinda sounds like you're asleep."
+    mc "Puedo oír tu respiración... {w}Suena como si estuvieras dormida."
 
 # game/code/d10p2/d10p2s08.rpy:1114
 translate spanish d10p2s08_end_fbf01f78:
 
     # mc "Seriously, did you fall asleep?"
-    mc "Seriously, did you fall asleep?"
+    mc "En serio, ¿te has quedado dormida?"
 
 # game/code/d10p2/d10p2s08.rpy:1117
 translate spanish d10p2s08_end_4e85cb4d:
 
     # mc "Hello?"
-    mc "Hello?"
+    mc "¿Hola?"
 
 # game/code/d10p2/d10p2s08.rpy:1120
 translate spanish d10p2s08_end_0efd57d9:
 
     # aw "Hey, [mcname]..."
-    aw "Hey, [mcname]..."
+    aw "Hola, [mcname]..."
 
 # game/code/d10p2/d10p2s08.rpy:1121
 translate spanish d10p2s08_end_16fb6378:
 
     # mc "Hello? Are you still there?"
-    mc "Hello? Are you still there?"
+    mc "Hola? ¿Sigues ahí?"
 
 # game/code/d10p2/d10p2s08.rpy:1125
 translate spanish d10p2s08_end_ebe792cf:
 
     # aw "Uh, [mclogin]?"
-    aw "Uh, [mclogin]?"
+    aw "Eh, [mclogin]?"
 
 # game/code/d10p2/d10p2s08.rpy:1128
 translate spanish d10p2s08_end_3eb95530:
 
     # mc "Oh, hey Allison. Is it time to go?"
-    mc "Oh, hey Allison. Is it time to go?"
+    mc "Oh, hola Allison. ¿Es hora de irse?"
 
 # game/code/d10p2/d10p2s08.rpy:1130
 translate spanish d10p2s08_end_86b8f857:
 
     # aw "When you're wet & ready..."
-    aw "When you're wet & ready..."
+    aw "Cuando estés mojado y listo..."
 
 # game/code/d10p2/d10p2s08.rpy:1131
 translate spanish d10p2s08_end_23584fa3:
 
     # mc "Got the feeling I've been talking to a dead, dead, line."
-    mc "Got the feeling I've been talking to a dead, dead, line."
+    mc "Tengo la sensación de que he estado hablando con una línea muerta, muerta."
 
 # game/code/d10p2/d10p2s08.rpy:1133
 translate spanish d10p2s08_end_c9f2e7f7:
 
     # aw "Keep your focus on the simple things. {w}Are you ready?"
-    aw "Keep your focus on the simple things. {w}Are you ready?"
+    aw "Mantén tu atención en las cosas sencillas. {w}¿Estás preparado?"
 
 # game/code/d10p2/d10p2s08.rpy:1136
 translate spanish d10p2s08_end_cde7378b:
 
     # mc "Yep. Let's do this thing."
-    mc "Yep. Let's do this thing."
+    mc "Sí. Hagamos esto."
 
 translate spanish strings:
 
