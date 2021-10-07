@@ -946,85 +946,85 @@ translate spanish d10p2s08_mh_part1_f91b968c:
 translate spanish d10p2s08_mh_part1_1bb7096b:
 
     # mc "Gotcha. Anyway, so you remember her."
-    mc "Gotcha. Anyway, so you remember her."
+    mc "Entendido. De todos modos, la recuerdas."
 
 # game/code/d10p2/d10p2s08.rpy:380
 translate spanish d10p2s08_mh_part1_03ad7afa:
 
     # lc "Of course. Smoking hot, but..."
-    lc "Of course. Smoking hot, but..."
+    lc "Por supuesto. Muy caliente, pero..."
 
 # game/code/d10p2/d10p2s08.rpy:381
 translate spanish d10p2s08_mh_part1_98bcc197:
 
     # mc "But?"
-    mc "But?"
+    mc "¿Pero?"
 
 # game/code/d10p2/d10p2s08.rpy:383
 translate spanish d10p2s08_mh_part1_bc890ad2:
 
     # lc "I don't know. There was just something off about her."
-    lc "I don't know. There was just something off about her."
+    lc "No lo sé. Había algo raro en ella."
 
 # game/code/d10p2/d10p2s08.rpy:384
 translate spanish d10p2s08_mh_part1_b2aba0e3:
 
     # mc "Like what?"
-    mc "Like what?"
+    mc "¿Cómo qué?"
 
 # game/code/d10p2/d10p2s08.rpy:386
 translate spanish d10p2s08_mh_part1_84a7ce3a:
 
     # lc "I don't know. She was the oldest person there, but also the hottest girl in the crowd."
-    lc "I don't know. She was the oldest person there, but also the hottest girl in the crowd."
+    lc "No lo sé. Era la persona de más edad allí, pero también la chica más sexy de la multitud."
 
 # game/code/d10p2/d10p2s08.rpy:387
 translate spanish d10p2s08_mh_part1_8b4bf406:
 
     # mc "Well, maybe second hottest. I mean, you were there last week."
-    mc "Well, maybe second hottest. I mean, you were there last week."
+    mc "Bueno, tal vez el segunda más caliente. Quiero decir, estuviste allí la semana pasada."
 
 # game/code/d10p2/d10p2s08.rpy:390
 translate spanish d10p2s08_mh_part1_56c3e88b:
 
     # lc "Aww, you're sweet. {w}But really, I just feel like there was something off about her."
-    lc "Aww, you're sweet. {w}But really, I just feel like there was something off about her."
+    lc "Eres muy dulce. {w}Pero realmente, siento que había algo raro en ella."
 
 # game/code/d10p2/d10p2s08.rpy:391
 translate spanish d10p2s08_mh_part1_c2579430:
 
     # lc "I can't quite put my finger on what or why."
-    lc "I can't quite put my finger on what or why."
+    lc "No puedo saber qué o por qué."
 
 # game/code/d10p2/d10p2s08.rpy:392
 translate spanish d10p2s08_mh_part1_bd5f0d8c:
 
     # mc "Okay, so she was at the Party this week too."
-    mc "Okay, so she was at the Party this week too."
+    mc "Vale, también estuvo en la Fiesta esta semana."
 
 # game/code/d10p2/d10p2s08.rpy:395
 translate spanish d10p2s08_mh_part1_cf0ff015:
 
     # lc "Maybe I was just jealous of her style. She looked so flawless and elegant."
-    lc "Maybe I was just jealous of her style. She looked so flawless and elegant."
+    lc "Tal vez estaba celosa de su estilo. Se veía tan impecable y elegante."
 
 # game/code/d10p2/d10p2s08.rpy:401
 translate spanish d10p2s08_tm_part1_5a6f512e:
 
     # mc "So, like last week Mr.D1cky did his \"Magic and Mysticism\" thing."
-    mc "So, like last week Mr.D1cky did his \"Magic and Mysticism\" thing."
+    mc "Así que, como la semana pasada el Sr. D1cky hizo su cosa de \"Magia y Mística\"."
 
 # game/code/d10p2/d10p2s08.rpy:404
 translate spanish d10p2s08_tm_part1_ec817ce3:
 
     # lc "Oh, Min's told me about that. Sounds like it's more than just card tricks."
-    lc "Oh, Min's told me about that. Sounds like it's more than just card tricks."
+    lc "Oh, Min me ha hablado de eso. Parece que es algo más que trucos de cartas."
 
 # game/code/d10p2/d10p2s08.rpy:405
 translate spanish d10p2s08_tm_part1_7abb1758:
 
     # mc "It is definitely not card tricks. It's some sort of phenomena."
-    mc "It is definitely not card tricks. It's some sort of phenomena."
+    mc "Definitivamente no son trucos de cartas. Es una especie de fenómeno."
 
 # game/code/d10p2/d10p2s08.rpy:408
 translate spanish d10p2s08_tm_part1_6abf0f80:
@@ -1036,655 +1036,655 @@ translate spanish d10p2s08_tm_part1_6abf0f80:
 translate spanish d10p2s08_tm_part1_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "¿Qué?"
 
 # game/code/d10p2/d10p2s08.rpy:411
 translate spanish d10p2s08_tm_part1_15c726d4:
 
     # lc "Mah Nà Mah Nà!"
-    lc "Mah Nà Mah Nà!"
+    lc "¡Mah Nà Mah Nà!"
 
 # game/code/d10p2/d10p2s08.rpy:412
 translate spanish d10p2s08_tm_part1_c14aacbc:
 
     # mc "Are you singing that Muppets song?"
-    mc "Are you singing that Muppets song?"
+    mc "¿Estás cantando esa canción de los Muppets?"
 
 # game/code/d10p2/d10p2s08.rpy:415
 translate spanish d10p2s08_tm_part1_fe5a8f35:
 
     # lc "Yes. {w}Did you know it was originally from an Italian sexploitation flick? Svezia, inferno e paradiso."
-    lc "Yes. {w}Did you know it was originally from an Italian sexploitation flick? Svezia, inferno e paradiso."
+    lc "Sí. {w}¿Sabías que es originalmente de una película italiana de sexploitation? Svezia, inferno e paradiso".
 
 # game/code/d10p2/d10p2s08.rpy:416
 translate spanish d10p2s08_tm_part1_e9dad22d:
 
     # mc "Okay... why were you singing it?"
-    mc "Okay... why were you singing it?"
+    mc "Está bien ... ¿por qué la cantabas?"
 
 # game/code/d10p2/d10p2s08.rpy:419
 translate spanish d10p2s08_tm_part1_59836a33:
 
     # lc "You said, \"phenomena\". Sounds like \"Mah Nà Mah Nà!\", ya'know?"
-    lc "You said, \"phenomena\". Sounds like \"Mah Nà Mah Nà!\", ya'know?"
+    lc "Usted dijo, \"fenómenos\". Suena como \"¡Mah Nà Mah Nà!\", ¿sabes?"
 
 # game/code/d10p2/d10p2s08.rpy:425
 translate spanish d10p2s08_dw_part1_4d2fd69f:
 
     # mc "Do you trust me?"
-    mc "Do you trust me?"
+    mc "¿Confías en mí?"
 
 # game/code/d10p2/d10p2s08.rpy:428
 translate spanish d10p2s08_dw_part1_1518d02d:
 
     # lc "Yes. {w}Why do you ask?"
-    lc "Yes. {w}Why do you ask?"
+    lc "Sí. {w}¿Por qué lo preguntas?"
 
 # game/code/d10p2/d10p2s08.rpy:429
 translate spanish d10p2s08_dw_part1_ba8cd015:
 
     # mc "I mean, if I were tell you something personal about myself-"
-    mc "I mean, if I were tell you something personal about myself-"
+    mc "Quiero decir, si te dijera algo personal sobre mí-"
 
 # game/code/d10p2/d10p2s08.rpy:430
 translate spanish d10p2s08_dw_part1_3672310f:
 
     # mc "-something that maybe didn't make me seem like a great guy..."
-    mc "-something that maybe didn't make me seem like a great guy..."
+    mc "-algo que tal vez no me hizo parecer un gran tipo..."
 
 # game/code/d10p2/d10p2s08.rpy:433
 translate spanish d10p2s08_dw_part1_1d130707:
 
     # lc "I guess it depends on what you did. {w}Did you hurt someone?"
-    lc "I guess it depends on what you did. {w}Did you hurt someone?"
+    lc "Supongo que depende de lo que hayas hecho. {w}¿Heriste a alguien?"
 
 # game/code/d10p2/d10p2s08.rpy:434
 translate spanish d10p2s08_dw_part1_513204ac:
 
     # mc "No! Definitely not. {w}I'm just worried you might think less of me..."
-    mc "No! Definitely not. {w}I'm just worried you might think less of me..."
+    mc "¡No! Definitivamente no. {w}Sólo me preocupa que pienses mal de mí..."
 
 # game/code/d10p2/d10p2s08.rpy:436
 translate spanish d10p2s08_dw_part1_38ee88b2:
 
     # lc "I don't understand. What are you trying to tell me?"
-    lc "I don't understand. What are you trying to tell me?"
+    lc "No lo entiendo. ¿Qué está tratando de decirme?"
 
 # game/code/d10p2/d10p2s08.rpy:437
 translate spanish d10p2s08_dw_part1_b7ae6748:
 
     # mc "Well, sometimes I like to take the lead, and sometimes I prefer to be in the passenger seat."
-    mc "Well, sometimes I like to take the lead, and sometimes I prefer to be in the passenger seat."
+    mc "Bueno, a veces me gusta tomar la iniciativa, y otras veces prefiero estar en el asiento del copiloto."
 
 # game/code/d10p2/d10p2s08.rpy:440
 translate spanish d10p2s08_dw_part1_24434e2c:
 
     # lc "Mixing metaphors isn't helping me understand."
-    lc "Mixing metaphors isn't helping me understand."
+    lc "Mezclar metáforas no me ayuda a entender."
 
 # game/code/d10p2/d10p2s08.rpy:441
 translate spanish d10p2s08_dw_part1_30cbc23e:
 
     # mc "Sometimes maybe I kinda like... {w}to be dominated."
-    mc "Sometimes maybe I kinda like... {w}to be dominated."
+    mc "A veces me gusta un poco... {w}ser dominado."
 
 # game/code/d10p2/d10p2s08.rpy:444
 translate spanish d10p2s08_dw_part1_7e419cf5:
 
     # lc "Oh. {w}OH!"
-    lc "Oh. {w}OH!"
+    lc "Oh. {w}¡OH!"
 
 # game/code/d10p2/d10p2s08.rpy:445
 translate spanish d10p2s08_dw_part1_265cc565:
 
     # mc "I hope you don't think less of me."
-    mc "I hope you don't think less of me."
+    mc "Espero que no pienses mal de mí."
 
 # game/code/d10p2/d10p2s08.rpy:448
 translate spanish d10p2s08_dw_part1_864e84b0:
 
     # lc "Wow! That's so interesting! Is it just by girls? Or just by guys? Or both individually or together?"
-    lc "Wow! That's so interesting! Is it just by girls? Or just by guys? Or both individually or together?"
+    lc "¡Vaya! ¡Qué interesante! ¿Es sólo por las chicas? ¿O sólo por los chicos? ¿O ambos individualmente o juntos?"
 
 # game/code/d10p2/d10p2s08.rpy:449
 translate spanish d10p2s08_dw_part1_3703ee8f:
 
     # lc "Have you done a lot of this? When was your first time? Oh my goodness, I just have so many questions!"
-    lc "Have you done a lot of this? When was your first time? Oh my goodness, I just have so many questions!"
+    lc "¿Has hecho mucho de esto? ¿Cuándo fue tu primera vez? Oh, Dios mío, ¡tengo tantas preguntas!"
 
 # game/code/d10p2/d10p2s08.rpy:455
 translate spanish d10p2s08_dd_part1_9c31692a:
 
     # mc "So... {w}hmm... {w}How do I even start this?"
-    mc "So... {w}hmm... {w}How do I even start this?"
+    mc "Así que... {w}hmm... {w}¿Cómo empiezo con esto?"
 
 # game/code/d10p2/d10p2s08.rpy:458
 translate spanish d10p2s08_dd_part1_cb617cfa:
 
     # lc "I don't know? At the beginning?"
-    lc "I don't know? At the beginning?"
+    lc "¿No lo sé? ¿Al principio?"
 
 # game/code/d10p2/d10p2s08.rpy:459
 translate spanish d10p2s08_dd_part1_0d65bbef:
 
     # mc "So, there was this Pandora Room here tonight."
-    mc "So, there was this Pandora Room here tonight."
+    mc "Así que, había una sala de Pandora aquí esta noche."
 
 # game/code/d10p2/d10p2s08.rpy:462
 translate spanish d10p2s08_dd_part1_92989312:
 
     # lc "What does that mean? Sounds disgusting."
-    lc "What does that mean? Sounds disgusting."
+    lc "¿Qué significa eso? Suena asqueroso."
 
 # game/code/d10p2/d10p2s08.rpy:463
 translate spanish d10p2s08_dd_part1_39e6f156:
 
     # mc "It's a BDSM room, but you don't know if you're going to be dominated or submitting until you get in there."
-    mc "It's a BDSM room, but you don't know if you're going to be dominated or submitting until you get in there."
+    mc "Es una sala de sadomasoquismo, pero no sabes si vas a ser dominado o sometido hasta que entras ahí."
 
 # game/code/d10p2/d10p2s08.rpy:466
 translate spanish d10p2s08_dd_part1_aed8461a:
 
     # lc "Do you roll dice or spin a wheel or something?"
-    lc "Do you roll dice or spin a wheel or something?"
+    lc "¿Tiras los dados o haces girar una rueda o algo así?"
 
 # game/code/d10p2/d10p2s08.rpy:467
 translate spanish d10p2s08_dd_part1_345c8999:
 
     # mc "First one in gets tied up; second one in plays with the first one. Then they both leave."
-    mc "First one in gets tied up; second one in plays with the first one. Then they both leave."
+    mc "El primero que entra es atado; el segundo que entra juega con el primero. Luego los dos se van."
 
 # game/code/d10p2/d10p2s08.rpy:470
 translate spanish d10p2s08_dd_part1_1043f62e:
 
     # lc "Oh, that's better than I imagined."
-    lc "Oh, that's better than I imagined."
+    lc "Oh, eso es mejor de lo que imaginaba."
 
 # game/code/d10p2/d10p2s08.rpy:471
 translate spanish d10p2s08_dd_part1_0f330b56:
 
     # mc "Were you thinking it was some sort of gambling? Like strip poker?"
-    mc "Were you thinking it was some sort of gambling? Like strip poker?"
+    mc "¿Pensabas que era algún tipo de juego? ¿Como el strip poker?"
 
 # game/code/d10p2/d10p2s08.rpy:474
 translate spanish d10p2s08_dd_part1_5dae87c9:
 
     # lc "No. I mean, Pandora's Box was filled with plagues and hope."
-    lc "No. I mean, Pandora's Box was filled with plagues and hope."
+    lc "No. Quiero decir, la Caja de Pandora estaba llena de plagas y esperanza."
 
 # game/code/d10p2/d10p2s08.rpy:475
 translate spanish d10p2s08_dd_part1_a6be913e:
 
     # mc "So?"
-    mc "So?"
+    mc "¿Y?"
 
 # game/code/d10p2/d10p2s08.rpy:478
 translate spanish d10p2s08_dd_part1_99e6d468:
 
     # lc "So, like, at a sex party... room full of unprotected sex, with the chances of STDs or pregnancy?"
-    lc "So, like, at a sex party... room full of unprotected sex, with the chances of STDs or pregnancy?"
+    lc "Así que, como en una fiesta sexual... ¿habitación llena de sexo sin protección, con posibilidades de Enfermedades de transmisión sexual o embarazo?"
 
 # game/code/d10p2/d10p2s08.rpy:479
 translate spanish d10p2s08_dd_part1_6322f5f0:
 
     # mc "No! Definitely not."
-    mc "No! Definitely not."
+    mc "¡No! Definitivamente no."
 
 # game/code/d10p2/d10p2s08.rpy:480
 translate spanish d10p2s08_dd_part1_4fa50cda:
 
     # lc "I mean, it'd be low risk if you're up on all your vaccines and-"
-    lc "I mean, it'd be low risk if you're up on all your vaccines and-"
+    lc "Quiero decir, sería de bajo riesgo si estás al día con todas tus vacunas y-"
 
 # game/code/d10p2/d10p2s08.rpy:486
 translate spanish d10p2s08_jf_part1_4f295302:
 
     # mc "This story is going to get really weird in a hurry."
-    mc "This story is going to get really weird in a hurry."
+    mc "Esta historia se va a poner muy rara en seguida."
 
 # game/code/d10p2/d10p2s08.rpy:489
 translate spanish d10p2s08_jf_part1_ba801f8c:
 
     # lc "How weird?"
-    lc "How weird?"
+    lc "¿Qué tan rara?"
 
 # game/code/d10p2/d10p2s08.rpy:490
 translate spanish d10p2s08_jf_part1_0e936e3d:
 
     # mc "Like cosplay and sports."
-    mc "Like cosplay and sports."
+    mc "Como el cosplay y los deportes."
 
 # game/code/d10p2/d10p2s08.rpy:493
 translate spanish d10p2s08_jf_part1_8d23e65c:
 
     # lc "So, like with furries?"
-    lc "So, like with furries?"
+    lc "Entonces, ¿como con los furries?"
 
 # game/code/d10p2/d10p2s08.rpy:494
 translate spanish d10p2s08_jf_part1_26047041:
 
     # mc "No. I mean, maybe. I don't know much about furries."
-    mc "No. I mean, maybe. I don't know much about furries."
+    mc "No. Quiero decir, tal vez. No sé mucho sobre los furries."
 
 # game/code/d10p2/d10p2s08.rpy:497
 translate spanish d10p2s08_jf_part1_4f6bf2e4:
 
     # lc "Me neither. {w}I mean, we're supposed to be accepting of different preferences..."
-    lc "Me neither. {w}I mean, we're supposed to be accepting of different preferences..."
+    lc "Yo tampoco. {w}Se supone que debemos aceptar las diferentes preferencias..."
 
 # game/code/d10p2/d10p2s08.rpy:498
 translate spanish d10p2s08_jf_part1_45955286:
 
     # lc "... there are people who dress up as vampires and live 24/7 BDSM lifestyles and that's supposed to be okay..."
-    lc "... there are people who dress up as vampires and live 24/7 BDSM lifestyles and that's supposed to be okay..."
+    lc "... hay gente que se disfraza de vampiro y lleva un estilo de vida sadomasoquismo las 24 horas del día y se supone que eso está bien..."
 
 # game/code/d10p2/d10p2s08.rpy:500
 translate spanish d10p2s08_jf_part1_27502924:
 
     # lc "... yet when it comes to furries, somehow they're the weird sex that everyone thinks it is okay to make jokes about?"
-    lc "... yet when it comes to furries, somehow they're the weird sex that everyone thinks it is okay to make jokes about?"
+    lc "... Sin embargo, cuando se trata de los furries, ¿de alguna manera son el sexo raro sobre el que todo el mundo cree que está bien hacer bromas?"
 
 # game/code/d10p2/d10p2s08.rpy:502
 translate spanish d10p2s08_jf_part1_7fb2c81d:
 
     # lc "Is it hypocrisy or is there something that makes it okay-"
-    lc "Is it hypocrisy or is there something that makes it okay-"
+    lc "¿Es hipocresía o hay algo que hace que esté bien-"
 
 # game/code/d10p2/d10p2s08.rpy:508
 translate spanish d10p2s08_arj_part1_cd5e75a8:
 
     # mc "So, I was out on the balcony-"
-    mc "So, I was out on the balcony-"
+    mc "Así que, estaba en el balcón-"
 
 # game/code/d10p2/d10p2s08.rpy:509
 translate spanish d10p2s08_arj_part1_25ad8d34:
 
     # mct "I shouldn't say that it was AmRose."
-    mct "I shouldn't say that it was AmRose."
+    mct "No debería decir que fue AmRose."
 
 # game/code/d10p2/d10p2s08.rpy:510
 translate spanish d10p2s08_arj_part1_c3f678ef:
 
     # mc "-with some girl."
-    mc "-with some girl."
+    mc "-con una chica."
 
 # game/code/d10p2/d10p2s08.rpy:513
 translate spanish d10p2s08_arj_part1_90525e85:
 
     # lc "Just some girl?"
-    lc "Just some girl?"
+    lc "¿Sólo una chica?"
 
 # game/code/d10p2/d10p2s08.rpy:514
 translate spanish d10p2s08_arj_part1_5255321b:
 
     # mc "Well, you know how it is. Pseudonyms and masks and all that."
-    mc "Well, you know how it is. Pseudonyms and masks and all that."
+    mc "Bueno, ya sabes cómo es esto. Pseudónimos y máscaras y todo eso."
 
 # game/code/d10p2/d10p2s08.rpy:516
 translate spanish d10p2s08_arj_part1_b723e723:
 
     # lc "Are you sure she was a girl?"
-    lc "Are you sure she was a girl?"
+    lc "¿Estás seguro de que era una chica?"
 
 # game/code/d10p2/d10p2s08.rpy:518
 translate spanish d10p2s08_arj_part1_e453702d:
 
     # mct "I really shouldn't be telling this story."
-    mct "I really shouldn't be telling this story."
+    mct "Realmente no debería estar contando esta historia."
 
 # game/code/d10p2/d10p2s08.rpy:519
 translate spanish d10p2s08_arj_part1_37a0bddf:
 
     # mct "It's too much like the other day when AmRose was under the table while Lydia & I were at that restaurant."
-    mct "It's too much like the other day when AmRose was under the table while Lydia & I were at that restaurant."
+    mct "Es demasiado como el otro día cuando AmRose estaba debajo de la mesa mientras Lydia y yo estábamos en ese restaurante."
 
 # game/code/d10p2/d10p2s08.rpy:522
 translate spanish d10p2s08_arj_part1_aad3f0f9:
 
     # mc "Nevermind. Forget about that."
-    mc "Nevermind. Forget about that."
+    mc "No importa. Olvídate de eso."
 
 # game/code/d10p2/d10p2s08.rpy:525
 translate spanish d10p2s08_arj_part1_e53c735e:
 
     # lc "You've had some fun tonight, haven't you?"
-    lc "You've had some fun tonight, haven't you?"
+    lc "Te has divertido esta noche, ¿verdad?"
 
 # game/code/d10p2/d10p2s08.rpy:526
 translate spanish d10p2s08_arj_part1_7174a36b:
 
     # mc "Yeah, I was just thinking...{w} I want to tell you something really hot."
-    mc "Yeah, I was just thinking...{w} I want to tell you something really hot."
+    mc "Sí, sólo estaba pensando...{w} Quiero decirte algo muy caliente."
 
 # game/code/d10p2/d10p2s08.rpy:529
 translate spanish d10p2s08_arj_part1_30897b74:
 
     # lc "Okay. Take your time."
-    lc "Okay. Take your time."
+    lc "De acuerdo. Tómate tu tiempo."
 
 # game/code/d10p2/d10p2s08.rpy:537
 translate spanish d10p2s08_part2_8429bd1d:
 
     # mc "Do you want me to tell you this or not?"
-    mc "Do you want me to tell you this or not?"
+    mc "¿Quieres que te lo diga o no?"
 
 # game/code/d10p2/d10p2s08.rpy:540
 translate spanish d10p2s08_part2_d0f2ac6d:
 
     # lc "I'm not sure..."
-    lc "I'm not sure..."
+    lc "No estoy segura..."
 
 # game/code/d10p2/d10p2s08.rpy:541
 translate spanish d10p2s08_part2_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "¿Qué quieres decir?"
 
 # game/code/d10p2/d10p2s08.rpy:544
 translate spanish d10p2s08_part2_f39c71a0:
 
     # lc "I'm... {w}emotional."
-    lc "I'm... {w}emotional."
+    lc "Soy... {w}emocional."
 
 # game/code/d10p2/d10p2s08.rpy:545
 translate spanish d10p2s08_part2_10029a1a:
 
     # lc "I'm not sure if I'm horny or furious or giddy or confused."
-    lc "I'm not sure if I'm horny or furious or giddy or confused."
+    lc "No estoy segura de si estoy excitada, furiosa, mareada o confundida."
 
 # game/code/d10p2/d10p2s08.rpy:548
 translate spanish d10p2s08_part2_109c578b:
 
     # lc "It's just a whole fascinating ball of complex emotions running through me right now."
-    lc "It's just a whole fascinating ball of complex emotions running through me right now."
+    lc "Es toda una bola fascinante de emociones complejas que me atraviesan en este momento."
 
 # game/code/d10p2/d10p2s08.rpy:549
 translate spanish d10p2s08_part2_860626d0:
 
     # mc "Whoa! {w}Sounds like we should stop this."
-    mc "Whoa! {w}Sounds like we should stop this."
+    mc "¡Vaya! {w}Parece que deberíamos parar esto."
 
 # game/code/d10p2/d10p2s08.rpy:552
 translate spanish d10p2s08_part2_e85103c4:
 
     # lc "No!{w} I mean, no. Please continue."
-    lc "No!{w} I mean, no. Please continue."
+    lc "¡No!{w} Quiero decir, no. Por favor, continúa."
 
 # game/code/d10p2/d10p2s08.rpy:553
 translate spanish d10p2s08_part2_cfce055e:
 
     # mc "Are you sure?"
-    mc "Are you sure?"
+    mc "¿Está segura?"
 
 # game/code/d10p2/d10p2s08.rpy:556
 translate spanish d10p2s08_part2_2e74387c:
 
     # lc "Yes, I'm certain. I want to hear more."
-    lc "Yes, I'm certain. I want to hear more."
+    lc "Sí, estoy segura. Quiero escuchar más."
 
 # game/code/d10p2/d10p2s08.rpy:557
 translate spanish d10p2s08_part2_84f16542:
 
     # mc "Okay..."
-    mc "Okay..."
+    mc "Bien..."
 
 # game/code/d10p2/d10p2s08.rpy:560
 translate spanish d10p2s08_part2_7ac02be0:
 
     # lc "So, where were we?"
-    lc "So, where were we?"
+    lc "Entonces, ¿dónde estábamos?"
 
 # game/code/d10p2/d10p2s08.rpy:585
 translate spanish d10p2s08_aw_part3_a1a413b0:
 
     # mc "So, Allison and I found ourselves on the stairs and started messing around..."
-    mc "So, Allison and I found ourselves on the stairs and started messing around..."
+    mc "Así que, Allison y yo nos encontramos en las escaleras y empezamos a trastear..."
 
 # game/code/d10p2/d10p2s08.rpy:588
 translate spanish d10p2s08_aw_part3_765219bd:
 
     # lc "In the middle of the house? You didn't go to a room or something?"
-    lc "In the middle of the house? You didn't go to a room or something?"
+    lc "¿En medio de la casa? ¿No te fuiste a una habitación o algo así?"
 
 # game/code/d10p2/d10p2s08.rpy:590
 translate spanish d10p2s08_aw_part3_7dc663e5:
 
     # mc "I think she wanted people to see us. You know what she does for a living, right?"
-    mc "I think she wanted people to see us. You know what she does for a living, right?"
+    mc "Creo que ella quería que la gente nos viera. Sabes a qué se dedica, ¿verdad?"
 
 # game/code/d10p2/d10p2s08.rpy:592
 translate spanish d10p2s08_aw_part3_96e8ed3a:
 
     # lc "I've never really thought about it."
-    lc "I've never really thought about it."
+    lc "Nunca he pensado en ello."
 
 # game/code/d10p2/d10p2s08.rpy:594
 translate spanish d10p2s08_aw_part3_a3839847:
 
     # mc "She's a camgirl. She likes it when people watch her live streams."
-    mc "She's a camgirl. She likes it when people watch her live streams."
+    mc "Es una camgirl. Le gusta que la gente vea sus transmisiones en vivo."
 
 # game/code/d10p2/d10p2s08.rpy:597
 translate spanish d10p2s08_aw_part3_d6c8831c:
 
     # lc "Really?? I didn't- {w}So, people pay to watch her do... {w}naughty things?"
-    lc "Really?? I didn't- {w}So, people pay to watch her do... {w}naughty things?"
+    lc "¿De verdad? No sabi- {w}Así que la gente paga por verla hacer... {w}¿cosas traviesas?"
 
 # game/code/d10p2/d10p2s08.rpy:599
 translate spanish d10p2s08_aw_part3_eb1bd569:
 
     # mc "Yeah. I didn't think it was a secret. She seems pretty open about it."
-    mc "Yeah. I didn't think it was a secret. She seems pretty open about it."
+    mc "Sí. No pensé que fuera un secreto. Parece bastante abierta al respecto."
 
 # game/code/d10p2/d10p2s08.rpy:600
 translate spanish d10p2s08_aw_part3_264f49f5:
 
     # lc "I didn't think people like that really existed. {w}I mean, of course they exist, but that I actually knew one..."
-    lc "I didn't think people like that really existed. {w}I mean, of course they exist, but that I actually knew one..."
+    lc "No creía que existiera gente así. {w}Es decir, claro que existen, pero que yo conozca realmente a una..."
 
 # game/code/d10p2/d10p2s08.rpy:603
 translate spanish d10p2s08_aw_part3_cd7c4a0a:
 
     # mct "I've met at least two. Although, AmRose is kinda reluctantly in that position."
-    mct "I've met at least two. Although, AmRose is kinda reluctantly in that position."
+    mct "He conocido al menos a dos. Aunque, AmRose está un poco a regañadientes en esa posición."
 
 # game/code/d10p2/d10p2s08.rpy:606
 translate spanish d10p2s08_aw_part3_8cd3be6c:
 
     # lc "Anyway, so you were messing around with this camgirl on the stairs in the middle of the Party-"
-    lc "Anyway, so you were messing around with this camgirl on the stairs in the middle of the Party-"
+    lc "De todos modos, así que estabas jugando con esta camgirl en las escaleras en medio de la fiesta-"
 
 # game/code/d10p2/d10p2s08.rpy:610
 translate spanish d10p2s08_aw_part3_399fa741:
 
     # mc "Right. So, she was so hot & horny that I had barely touched her when she orgasmed."
-    mc "Right. So, she was so hot & horny that I had barely touched her when she orgasmed."
+    mc "Sí. Así que, estaba tan caliente y cachonda que apenas la había tocado cuando tuvo un orgasmo."
 
 # game/code/d10p2/d10p2s08.rpy:613
 translate spanish d10p2s08_aw_part3_67dc2863:
 
     # lc "No kidding?!"
-    lc "No kidding?!"
+    lc "¡¿No me digas?!"
 
 # game/code/d10p2/d10p2s08.rpy:617
 translate spanish d10p2s08_aw_part3_efc00b62:
 
     # mc "Apparently, she can basically cum on command. I would've guessed that she was faking it, but we have these fitness trackers that record our heart rates and such."
-    mc "Apparently, she can basically cum on command. I would've guessed that she was faking it, but we have these fitness trackers that record our heart rates and such."
+    mc "Aparentemente, ella puede básicamente correrse a la orden. Habría adivinado que estaba fingiendo, pero tenemos estos rastreadores de fitness que registran nuestros ritmos cardíacos y tal."
 
 # game/code/d10p2/d10p2s08.rpy:622
 translate spanish d10p2s08_aw_part3_6558b405:
 
     # lc "I'm somewhere between envious and terrified at the idea of that."
-    lc "I'm somewhere between envious and terrified at the idea of that."
+    lc "Me siento entre envidiosa y aterrorizada ante la idea."
 
 # game/code/d10p2/d10p2s08.rpy:626
 translate spanish d10p2s08_aw_part3_febb782a:
 
     # mc "So we're standing there on the stairs, she's not wearing anything under her dress, and she pulls my cock out."
-    mc "So we're standing there on the stairs, she's not wearing anything under her dress, and she pulls my cock out."
+    mc "Así que estamos de pie en las escaleras, ella no lleva nada debajo del vestido, y me saca la polla."
 
 # game/code/d10p2/d10p2s08.rpy:630
 translate spanish d10p2s08_aw_part3_559e28c7:
 
     # mc "I've got a couple fingers inside her while she jerks my cock."
-    mc "I've got a couple fingers inside her while she jerks my cock."
+    mc "Tengo un par de dedos dentro de ella mientras me masturba la polla."
 
 # game/code/d10p2/d10p2s08.rpy:634
 translate spanish d10p2s08_aw_part3_b97a3411:
 
     # mc "We started to kiss when suddenly someone passed us on the stairs."
-    mc "We started to kiss when suddenly someone passed us on the stairs."
+    mc "Empezamos a besarnos cuando, de repente, alguien se cruzó con nosotros en las escaleras."
 
 # game/code/d10p2/d10p2s08.rpy:638
 translate spanish d10p2s08_aw_part3_8458ca18:
 
     # mc "Allison and I ignored her and kept masturbating each other as they walked by..."
-    mc "Allison and I ignored her and kept masturbating each other as they walked by..."
+    mc "Allison y yo la ignoramos y seguimos masturbándonos mutuamente mientras pasaban..."
 
 # game/code/d10p2/d10p2s08.rpy:643
 translate spanish d10p2s08_cl_part3_8762c772:
 
     # mc "So, your friend and I went outside for a little walk."
-    mc "So, your friend and I went outside for a little walk."
+    mc "Entonces, tu amiga y yo salimos a dar un pequeño paseo."
 
 # game/code/d10p2/d10p2s08.rpy:646
 translate spanish d10p2s08_cl_part3_e07bd2e7:
 
     # lc "You're serious?"
-    lc "You're serious?"
+    lc "¿Hablas en serio?"
 
 # game/code/d10p2/d10p2s08.rpy:648
 translate spanish d10p2s08_cl_part3_68797e0d:
 
     # mc "Of course. At first she just wanted to tell me about the religious retreat she went on, but she was talking kinda weird."
-    mc "Of course. At first she just wanted to tell me about the religious retreat she went on, but she was talking kinda weird."
+    mc "Por supuesto. Al principio sólo quería hablarme del retiro religioso al que fue, pero hablaba un poco raro."
 
 # game/code/d10p2/d10p2s08.rpy:651
 translate spanish d10p2s08_cl_part3_956ded28:
 
     # lc "She's always a little dramatic. You get used to it."
-    lc "She's always a little dramatic. You get used to it."
+    lc "Siempre es un poco dramática. Te acostumbras a ello."
 
 # game/code/d10p2/d10p2s08.rpy:653
 translate spanish d10p2s08_cl_part3_c40545ec:
 
     # mc "No, I mean, like she started speaking in parables. There was something about palm trees. It was weird."
-    mc "No, I mean, like she started speaking in parables. There was something about palm trees. It was weird."
+    mc "No, me refiero a que empezó a hablar en parábolas. Había algo sobre las palmeras. Era raro."
 
 # game/code/d10p2/d10p2s08.rpy:656
 translate spanish d10p2s08_cl_part3_25ab30fc:
 
     # lc "Huh. That does sound unusual, even for her. What happened at the retreat?"
-    lc "Huh. That does sound unusual, even for her. What happened at the retreat?"
+    lc "Huh. Eso suena inusual, incluso para ella. ¿Qué pasó en el retiro?"
 
 # game/code/d10p2/d10p2s08.rpy:658
 translate spanish d10p2s08_cl_part3_df638fe9:
 
     # mc "She said that she renewed her virginity, but there was a loophole."
-    mc "She said that she renewed her virginity, but there was a loophole."
+    mc "Dijo que había renovado su virginidad, pero había una laguna."
 
 # game/code/d10p2/d10p2s08.rpy:661
 translate spanish d10p2s08_cl_part3_c9a10ab4:
 
     # lc "Are you saying-"
-    lc "Are you saying-"
+    lc "¿Estás diciendo que-"
 
 # game/code/d10p2/d10p2s08.rpy:663
 translate spanish d10p2s08_cl_part3_963236c9:
 
     # mc "Yeah, we were standing outside when she stripped buck naked and then some guy ran by..."
-    mc "Yeah, we were standing outside when she stripped buck naked and then some guy ran by..."
+    mc "Sí, estábamos afuera cuando se desnudó y un tipo pasó corriendo..."
 
 # game/code/d10p2/d10p2s08.rpy:666
 translate spanish d10p2s08_cl_part3_052a0a5e:
 
     # lc "Woah! Really?"
-    lc "Woah! Really?"
+    lc "¡Woah! ¿De verdad?"
 
 # game/code/d10p2/d10p2s08.rpy:670
 translate spanish d10p2s08_cl_part3_6637fff4:
 
     # mc "Yeah, he had lost a bet and had to run naked around the house. It was kinda distracting, but we persevered."
-    mc "Yeah, he had lost a bet and had to run naked around the house. It was kinda distracting, but we persevered."
+    mc "Sí, había perdido una apuesta y tenía que correr desnudo por la casa. Fue un poco distraído, pero perseveramos."
 
 # game/code/d10p2/d10p2s08.rpy:674
 translate spanish d10p2s08_cl_part3_309e99a2:
 
     # mc "You know that little outdoor shower?"
-    mc "You know that little outdoor shower?"
+    mc "¿Conoces esa pequeña ducha al aire libre?"
 
 # game/code/d10p2/d10p2s08.rpy:679
 translate spanish d10p2s08_cl_part3_0c38c0b6:
 
     # lc "The one for people to wash the chlorine off when they use the pool, before they come back inside?"
-    lc "The one for people to wash the chlorine off when they use the pool, before they come back inside?"
+    lc "¿La que sirve para que la gente se lave el cloro cuando usa la piscina, antes de volver a entrar?"
 
 # game/code/d10p2/d10p2s08.rpy:683
 translate spanish d10p2s08_cl_part3_48c3c6fd:
 
     # mc "That's the one. Cynthia stepped into that shower and spread her ass for me."
-    mc "That's the one. Cynthia stepped into that shower and spread her ass for me."
+    mc "Esa. Cynthia entró en la ducha y abrió su culo para mí."
 
 # game/code/d10p2/d10p2s08.rpy:687
 translate spanish d10p2s08_cl_part3_cf122cf1:
 
     # mc "Her ass was incredibly tight. Especially since we weren't using any lube."
-    mc "Her ass was incredibly tight. Especially since we weren't using any lube."
+    mc "Su culo estaba increíblemente apretado. Sobre todo porque no estábamos usando ningún lubricante."
 
 # game/code/d10p2/d10p2s08.rpy:691
 translate spanish d10p2s08_cl_part3_6733cbcc:
 
     # mc "I wanted to lubricate her with something, but she was emphatic that I fuck her raw."
-    mc "I wanted to lubricate her with something, but she was emphatic that I fuck her raw."
+    mc "Quería lubricarla con algo, pero ella se empeñó en que me la follara cruda."
 
 # game/code/d10p2/d10p2s08.rpy:696
 translate spanish d10p2s08_mh_part3_46bbbfcf:
 
     # mc "There was this proximity event. I got the notice from my device."
-    mc "There was this proximity event. I got the notice from my device."
+    mc "Hubo un evento de proximidad. Recibí el aviso de mi dispositivo."
 
 # game/code/d10p2/d10p2s08.rpy:699
 translate spanish d10p2s08_mh_part3_006b2c13:
 
     # lc "How does that work?"
-    lc "How does that work?"
+    lc "¿Cómo funciona eso?"
 
 # game/code/d10p2/d10p2s08.rpy:701
 translate spanish d10p2s08_mh_part3_601a5d84:
 
     # mc "Kinda like \"Hot or Cold\" where you have to find someone else at the Party."
-    mc "Kinda like \"Hot or Cold\" where you have to find someone else at the Party."
+    mc "Algo así como \"Caliente o frío\" donde tienes que encontrar a alguien más en la fiesta."
 
 # game/code/d10p2/d10p2s08.rpy:703
 translate spanish d10p2s08_mh_part3_4576a09c:
 
     # lc "Did you find your special person?"
-    lc "Did you find your special person?"
+    lc "¿Has encontrado a tu persona especial?"
 
 # game/code/d10p2/d10p2s08.rpy:705
 translate spanish d10p2s08_mh_part3_35647414:
 
     # mc "I did, although at first I wasn't sure whether it was Squizzle or Lyssa."
-    mc "I did, although at first I wasn't sure whether it was Squizzle or Lyssa."
+    mc "Lo hice, aunque al principio no estaba seguro de si era Squizzle o Lyssa."
 
 # game/code/d10p2/d10p2s08.rpy:708
 translate spanish d10p2s08_mh_part3_fefe1891:
 
     # lc "Squizzle is Min, right? Who's Lyssa? I don't think I met her."
-    lc "Squizzle is Min, right? Who's Lyssa? I don't think I met her."
+    lc "Squizzle es Min, ¿verdad? ¿Quién es Lyssa? Creo que no la conozco."
 
 # game/code/d10p2/d10p2s08.rpy:710
 translate spanish d10p2s08_mh_part3_5f066d08:
 
     # mc "You know the tall woman with blue hair that hangs around with Allison?"
-    mc "You know the tall woman with blue hair that hangs around with Allison?"
+    mc "¿Conoces a la mujer alta con el pelo azul que anda con Allison?"
 
 # game/code/d10p2/d10p2s08.rpy:713
 translate spanish d10p2s08_mh_part3_69e61b82:
 
     # lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
-    lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
+    lc "¡Oh, sí! No pude hablar con ella, pero es increíblemente hermosa. {w}Por favor, dime que era ella."
 
 # game/code/d10p2/d10p2s08.rpy:715
 translate spanish d10p2s08_mh_part3_2f95b562:
