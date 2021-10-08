@@ -2392,43 +2392,43 @@ translate spanish strings:
 
     # game/code/d10p2/d10p2s08.rpy:158
     old "I do."
-    new "I do."
+    new "Lo hago."
 
     # game/code/d10p2/d10p2s08.rpy:158
     old "I Love You"
-    new "I Love You"
+    new "Te amo"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Allison on the Stairs"
-    new "Allison on the Stairs"
+    new "Allison en las escaleras"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Cynthia Outdoors"
-    new "Cynthia Outdoors"
+    new "Cynthia al aire libre"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Lyssa in the Bedroom"
-    new "Lyssa in the Bedroom"
+    new "Lyssa en la habitación"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Talia on the Pirate Ship"
-    new "Talia on the Pirate Ship"
+    new "Talia en el barco pirata"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Dahlia in the Pandora Room"
-    new "Dahlia in the Pandora Room"
+    new "Dahlia en la Sala Pandora"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Daisy in the Pandora Room"
-    new "Daisy in the Pandora Room"
+    new "Daisy en la Sala Pandora"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Jessie's Horserace"
-    new "Jessie's Horserace"
+    new "Carrera de caballos de Jessie"
 
     # game/code/d10p2/d10p2s08.rpy:271
     old "Blowjob from AmRose"
-    new "Blowjob from AmRose"
+    new "Mamada de AmRose"
 
 # TODO: Translation updated at 2021-04-20 23:53
 
@@ -2436,19 +2436,19 @@ translate spanish strings:
 translate spanish d10p2s08_mh_part3_4f2cc688:
 
     # mc "Allison's friend? Blue-purple hair?"
-    mc "Allison's friend? Blue-purple hair?"
+    mc "¿Amiga de Allison? ¿Pelo azul-púrpura?"
 
 # game/code/d10p2/d10p2s08.rpy:713
 translate spanish d10p2s08_mh_part3_cfc2f32a:
 
     # lc "Oh, right! We talked about her, but I didn't know her name."
-    lc "Oh, right! We talked about her, but I didn't know her name."
+    lc "¡Oh, sí! Hablamos de ella, pero no sabía su nombre."
 
 # game/code/d10p2/d10p2s08.rpy:714
 translate spanish d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
-    lc "Please tell me it was Lyssa."
+    lc "Por favor, dime que fue Lyssa."
 
 # TODO: Translation updated at 2021-05-17 00:04
 
@@ -2456,149 +2456,149 @@ translate spanish d10p2s08_mh_part3_20d947bf:
 translate spanish d10p2s08_jf_part3_b49a9044:
 
     # mc "So, there was a Human Equine Horse Race. I participated as a jockey."
-    mc "So, there was a Human Equine Horse Race. I participated as a jockey."
+    mc "Entonces, hubo una carrera de caballos humanos. Yo participé como jinete."
 
 # game/code/d10p2/d10p2s08.rpy:959
 translate spanish d10p2s08_jf_part3_4dc101f1:
 
     # lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
-    lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
+    lc "¿No son los jinetes para caballos reales de tamaño normal como la mitad de tu tamaño? ¿Quién era tu caballo???"
 
 # game/code/d10p2/d10p2s08.rpy:961
 translate spanish d10p2s08_jf_part3_010f7e48:
 
     # mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
-    mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
+    mc "TuPequeñoPony. Linda chica. Hace cosplay. Se hizo su propio disfraz de caballo con pezuñas y todo."
 
 # game/code/d10p2/d10p2s08.rpy:963
 translate spanish d10p2s08_jf_part3_14e8620e:
 
     # lc "So, you really just walked while she crawled on all fours beneath you?"
-    lc "So, you really just walked while she crawled on all fours beneath you?"
+    lc "Así que, ¿realmente caminabas mientras ella se arrastraba a cuatro patas debajo de ti?"
 
 # game/code/d10p2/d10p2s08.rpy:965
 translate spanish d10p2s08_jf_part3_48e47d9f:
 
     # mc "Somehow she held my weight and was still able to move."
-    mc "Somehow she held my weight and was still able to move."
+    mc "De alguna manera, aguantó mi peso y pudo seguir moviéndose."
 
 # game/code/d10p2/d10p2s08.rpy:967
 translate spanish d10p2s08_jf_part3_60684bef:
 
     # lc "Okay. Who were the other horses and jockeys?"
-    lc "Okay. Who were the other horses and jockeys?"
+    lc "Bien. ¿Quiénes eran los otros caballos y jinetes?"
 
 # game/code/d10p2/d10p2s08.rpy:969
 translate spanish d10p2s08_jf_part3_c50eb4a0:
 
     # mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
-    mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
+    mc "Sólo un equipo más. Bravo estaba vestido como un burro o algo así. Eco era su jinete."
 
 # game/code/d10p2/d10p2s08.rpy:971
 translate spanish d10p2s08_jf_part3_3f035b58:
 
     # lc "Okay, that seems like a reasonable pairing at least."
-    lc "Okay, that seems like a reasonable pairing at least."
+    lc "Vale, parece un emparejamiento razonable al menos."
 
 # game/code/d10p2/d10p2s08.rpy:973
 translate spanish d10p2s08_jf_part3_ab008165:
 
     # mc "Yeah, they got off to an early lead."
-    mc "Yeah, they got off to an early lead."
+    mc "Sí, se pusieron en ventaja desde el principio."
 
 # game/code/d10p2/d10p2s08.rpy:975
 translate spanish d10p2s08_jf_part3_a86ed687:
 
     # mc "My pony did her best, but it was slow going."
-    mc "My pony did her best, but it was slow going."
+    mc "Mi poni hizo lo que pudo, pero fue lento."
 
 # game/code/d10p2/d10p2s08.rpy:977
 translate spanish d10p2s08_jf_part3_e1e21c92:
 
     # mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
-    mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
+    mc "Eco y Bravo llegaron primero a la mitad del camino y comenzaron a tener sexo en la posición de vaquera."
 
 # game/code/d10p2/d10p2s08.rpy:978
 translate spanish d10p2s08_jf_part3_889406bb:
 
     # lc "Okay... why?"
-    lc "Okay... why?"
+    lc "De acuerdo... ¿por qué?"
 
 # game/code/d10p2/d10p2s08.rpy:980
 translate spanish d10p2s08_jf_part3_6ace0c21:
 
     # mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
-    mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
+    mc "Era parte de las reglas. A mitad de la carrera el equino tenía que hacer que el jinete llegara al clímax".
 
 # game/code/d10p2/d10p2s08.rpy:981
 translate spanish d10p2s08_jf_part3_2eb36ec5:
 
     # mc "Now that I think about it, I think I took URLittlePony's virginity."
-    mc "Now that I think about it, I think I took URLittlePony's virginity."
+    mc "Ahora que lo pienso, creo que le quité la virginidad a TuPequeñoPony."
 
 # game/code/d10p2/d10p2s08.rpy:983
 translate spanish d10p2s08_jf_part3_c1b63891:
 
     # lc "You don't know? Did you ask her?"
-    lc "You don't know? Did you ask her?"
+    lc "¿No lo sabes? ¿Le has preguntado?"
 
 # game/code/d10p2/d10p2s08.rpy:987
 translate spanish d10p2s08_jf_part3_615d8fb9:
 
     # mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
-    mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
+    mc "Estaba completamente disfrazada. Como las anteojeras de caballo y todo. Tenía una mordaza en la boca, como un caballo."
 
 # game/code/d10p2/d10p2s08.rpy:991
 translate spanish d10p2s08_jf_part3_3b53d5e7:
 
     # mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
-    mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
+    mc "Pero se dio la vuelta y se presentó, y no se quejó cuando le aparté las bragas."
 
 # game/code/d10p2/d10p2s08.rpy:992
 translate spanish d10p2s08_jf_part3_89f5da50:
 
     # lc "That's... {w}That's kinda hot."
-    lc "That's... {w}That's kinda hot."
+    lc "Eso es... {w}Eso es un poco caliente."
 
 # game/code/d10p2/d10p2s08.rpy:996
 translate spanish d10p2s08_jf_part3_668e328c:
 
     # mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
-    mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
+    mc "Así que ahí estaba yo follando a lo perrito con TuPequeñoPony mientras Eco montaba a Bravo como una vaquera."
 
 # game/code/d10p2/d10p2s08.rpy:1000
 translate spanish d10p2s08_jf_part3_126ee15d:
 
     # mc "It was an intense race to see which team's jockey would climax first."
-    mc "It was an intense race to see which team's jockey would climax first."
+    mc "Fue una carrera intensa para ver qué jinete del equipo llegaría al clímax primero."
 
 # game/code/d10p2/d10p2s08.rpy:1004
 translate spanish d10p2s08_jf_part3_11ed5a0a:
 
     # mc "Just before I came my pony collapsed from her own orgasm..."
-    mc "Just before I came my pony collapsed from her own orgasm..."
+    mc "Justo antes de que me corriera, mi pony se desplomó por su propio orgasmo..."
 
 # game/code/d10p2/d10p2s08.rpy:1008
 translate spanish d10p2s08_jf_part3_2f652389:
 
     # mc "... so while she was chomping at the bit I shot my load all over her lower back."
-    mc "... so while she was chomping at the bit I shot my load all over her lower back."
+    mc "... así que mientras ella se moría de ganas, yo disparé mi carga por toda la parte baja de su espalda."
 
 # game/code/d10p2/d10p2s08.rpy:1158
 translate spanish d10p2s08_jf_part5_b1b42c33:
 
     # mc "After that she had the energy of like 5 stallions."
-    mc "After that she had the energy of like 5 stallions."
+    mc "Después de eso tenía la energía de como 5 sementales."
 
 # game/code/d10p2/d10p2s08.rpy:1159
 translate spanish d10p2s08_jf_part5_3b486f92:
 
     # mc "We raced to the finish line and easily won the race."
-    mc "We raced to the finish line and easily won the race."
+    mc "Llegamos a la meta y ganamos fácilmente la carrera."
 
 # game/code/d10p2/d10p2s08.rpy:1161
 translate spanish d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
-    mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
+    mc "TuPequeñoPony fue recompensada con un trago del abrevadero de la máxima desviación sexual."
 
